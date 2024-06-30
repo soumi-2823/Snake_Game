@@ -1,1 +1,3 @@
 # Snake_Game
+
+"I've created the classic Snake game, inspired by the iconic Nokia version, using HTML, CSS, and JavaScript. I've designed the game board, created the snake, and randomly generated food. I've also implemented features to make the game more engaging and challenging, such as making the snake move, increasing its size when it eats, and tracking collisions with walls or itself. Additionally, I've included a scoreboard to display the current score and a High Score tracker to record the longest snake length achieved. This way, when we lose a game, we can strive to beat our previous record in the next attempt."
