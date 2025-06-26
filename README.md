@@ -1,3 +1,21 @@
-# Snake_Game
+# Classic Snake Game 🐍 – JavaScript Project
 
-"I've created the classic Snake game, inspired by the iconic Nokia version, using HTML, CSS, and JavaScript. I've designed the game board, created the snake, and randomly generated food. I've also implemented features to make the game more engaging and challenging, such as making the snake move, increasing its size when it eats, and tracking collisions with walls or itself. Additionally, I've included a scoreboard to display the current score and a High Score tracker to record the longest snake length achieved. This way, when we lose a game, we can strive to beat our previous record in the next attempt."
+This is a desktop version of the **classic Snake game** built using HTML, CSS, and JavaScript.
+
+### 🎮 Game Features:
+- Dynamic snake movement in all directions
+- Food generation and score increase with every eat
+- Collision detection with walls and self
+- Sound effects for food pickup and game over
+- Live scoreboard with high score tracking
+
+### 🛠 Technologies Used:
+- HTML
+- CSS (for layout and design)
+- JavaScript (for logic, movement, and score)
+
+### 📱 Responsive Design:
+Optimized for desktop. Can be further improved for mobile screens in future.
+
+### 🎯 Purpose:
+This project was built for fun and to practice JavaScript game logic, timers, and DOM manipulation.
